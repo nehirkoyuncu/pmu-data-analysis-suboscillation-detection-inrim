@@ -14,8 +14,3 @@ Data Handling: Developed robust scripts for multi-format CSV/Excel parsing with 
 * [📄 Full Technical Report (PDF)](technical_report_inrim.pdf) : Detailed study and results of the internship. 
 scripts/: MATLAB implementation of detection algorithms and waveform generators.  
 figures/: Key performance charts, including TVE comparisons and reporting-rate analysis. 
-
-🎓 Academic ContextStudent:
-Nehir Koyuncu (Computer Engineering, Politecnico di Torino).
-Academic Tutor: Prof. Valentino Peluso (PoliTO).  
-Host Supervisor: Dr. Bruno Trinchera (INRIM).  
