@@ -1,4 +1,3 @@
-% MATLAB script for PMU Data Analysis
 clc;
 clear;
 close all;
