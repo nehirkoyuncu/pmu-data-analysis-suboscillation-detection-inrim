@@ -1,8 +1,7 @@
-# Tüm .m dosyalarını kesinlikle MATLAB olarak işaretle
-*.m linguist-language=MATLAB
+# MATLAB dosyalarını kod olarak işaretle
+src/**/*.m linguist-language=MATLAB
 
-# PDF, Rapor ve README dosyalarını istatistikten TAMAMEN çıkar
-*.pdf linguist-vendored
-*.md linguist-vendored
-*.txt linguist-vendored
+# Dokümantasyon klasörünü istatistikten tamamen çıkar
+docs/* linguist-documentation
 technical_report_inrim.pdf linguist-vendored
+*.md linguist-vendored
