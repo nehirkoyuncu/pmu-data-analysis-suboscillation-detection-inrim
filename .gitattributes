@@ -1,0 +1,6 @@
+# MATLAB dosyalarını zorla ana dil yap
+*.m linguist-language=MATLAB
+
+# Diğer büyük dosyaları ve raporları istatistikten gizle
+*.pdf linguist-documentation
+*.md linguist-documentation
