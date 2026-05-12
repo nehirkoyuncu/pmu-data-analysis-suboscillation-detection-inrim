@@ -1,6 +1,7 @@
-# MATLAB dosyalarını zorla ana dil yap
+# MATLAB dosyalarını dil istatistiklerinde en üste taşı
 *.m linguist-language=MATLAB
 
-# Diğer büyük dosyaları ve raporları istatistikten gizle
+# PDF ve Dokümantasyon dosyalarını dil hesaplamasından tamamen çıkar
 *.pdf linguist-documentation
 *.md linguist-documentation
+docs/* linguist-documentation
