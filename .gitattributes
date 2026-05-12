@@ -1,7 +1,8 @@
-# MATLAB dosyalarını dil istatistiklerinde en üste taşı
+# Tüm .m dosyalarını kesinlikle MATLAB olarak işaretle
 *.m linguist-language=MATLAB
 
-# PDF ve Dokümantasyon dosyalarını dil hesaplamasından tamamen çıkar
-*.pdf linguist-documentation
-*.md linguist-documentation
-docs/* linguist-documentation
+# PDF, Rapor ve README dosyalarını istatistikten TAMAMEN çıkar
+*.pdf linguist-vendored
+*.md linguist-vendored
+*.txt linguist-vendored
+technical_report_inrim.pdf linguist-vendored
