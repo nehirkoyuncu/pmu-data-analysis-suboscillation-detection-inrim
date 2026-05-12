@@ -1,4 +1,3 @@
-![MATLAB](https://img.shields.io/badge/MATLAB-0076a8?style=for-the-badge&logo=matlab&logoColor=white)
 Development of PMU Data Analysis Methods for Sub-Oscillation DetectionThis repository contains the technical report and MATLAB algorithms developed during my 300-hour research internship at INRIM (National Institute of Metrological Research), Italy. 
 
 📌 Project Overview
