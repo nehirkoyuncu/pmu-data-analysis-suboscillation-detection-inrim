@@ -1,4 +1,4 @@
-% MATLAB script for PMU Data Analysis and Sub-oscillation Detection
+% MATLAB 
 clc;
 clear;
 close all;
