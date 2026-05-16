@@ -11,6 +11,6 @@ Aliasing Management: Integrated Nyquist-frequency handling for data at various r
 Data Handling: Developed robust scripts for multi-format CSV/Excel parsing with automatic delimiter detection. 
 
 📂 Repository Structuredocs/:
-* [📄 Full Technical Report (PDF)](technical_report_inrim.pdf) : Detailed study and results of the internship. 
+* [📄 Full Technical Report (PDF)](docs/technical_report_inrim.pdf) : Detailed study and results of the internship. 
 scripts/: MATLAB implementation of detection algorithms and waveform generators.  
 figures/: Key performance charts, including TVE comparisons and reporting-rate analysis. 
